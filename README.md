@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Juan+Ignacio+Frangolini!;" />
 
 <h2>📖 | About me</h2>
-🚀 Developer with 1+ year of experience and an advanced student of Information Systems Engineering. Passionate about Backend and Frontend development, data analysis, and the potential of Blockchain. I thrive in collaborative environments, valuing clean, maintainable code and continuous learning. Always eager to tackle new challenges and apply my knowledge to real-world solutions.
+🚀 Developer with 1+ year of experience and an advanced student of Information Systems Engineering. Passionate about Frontend development, data analysis, and the potential of Blockchain. I thrive in collaborative environments, valuing clean, maintainable code and continuous learning. Always eager to tackle new challenges and apply my knowledge to real-world solutions.
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
